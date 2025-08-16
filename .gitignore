@@ -3,3 +3,4 @@
 *.pt
 venv/
 gpu_env/
+data/
