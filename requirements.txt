@@ -1,0 +1,44 @@
+# PyTorch with CUDA (adjust torch, torchvision, torchaudio URLs for specific CUDA version if needed)
+#my version is 12.9 so i pass cu129
+# torch==2.1.0+cu129 --find-links https://download.pytorch.org/whl/cu129
+# torchvision==0.17.0+cu129 --find-links https://download.pytorch.org/whl/cu129
+# torchaudio==2.1.0+cu129 --find-links https://download.pytorch.org/whl/cu129
+
+
+# Core scientific stack
+numpy
+scipy
+matplotlib
+seaborn
+pandas
+
+# Machine learning frameworks
+tensorflow
+scikit-learn
+keras
+
+# Computer vision & imaging
+opencv-python
+pillow
+imageio
+scikit-image
+
+# Deep learning utilities
+torchsummary
+torchtext
+
+# Specialized packages
+deepinverse
+plotly
+
+# Development and analysis
+jupyter
+ipython
+tqdm
+wandb
+
+# Data handling & utilities
+h5py
+zarr
+requests
+psutil
