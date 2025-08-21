@@ -28,7 +28,7 @@ torchsummary
 torchtext
 
 # Specialized packages
-deepinverse
+# deepinverse
 plotly
 
 # Development and analysis

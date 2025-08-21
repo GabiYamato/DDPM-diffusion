@@ -4,3 +4,5 @@
 venv/
 gpu_env/
 data/
+mlenv/
+._*
