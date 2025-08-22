@@ -6,3 +6,5 @@ gpu_env/
 data/
 mlenv/
 ._*
+results/
+results/**
