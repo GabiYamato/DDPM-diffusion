@@ -1,0 +1,17 @@
+{
+  "batch_size": 4,
+  "learning_rate": 0.0001,
+  "num_epochs": 50,
+  "image_size": 256,
+  "save_dir": "checkpoints",
+  "imagenet_root": "D:\\DDPM-diffusion\\data\\imagenet-mini",
+  "max_classes": 100,
+  "num_workers": 2,
+  "gradient_clip": 1.0,
+  "save_every": 5,
+  "demo_every": 10,
+  "guidance_scale": 7.5,
+  "device": "cuda",
+  "model_params": 217802499,
+  "available_classes": 100
+}
