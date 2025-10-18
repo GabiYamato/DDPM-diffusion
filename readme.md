@@ -16,6 +16,7 @@ This implementation includes:
 
 The model learns to transform pure noise into recognizable MNIST digits. Below are GIFs showing the complete diffusion process for each digit class:
 
+
 ### Digit 0
 
 ![Diffusion Process - Digit 0](GIFs/diffusion_process_class_0_epoch_10.gif)
