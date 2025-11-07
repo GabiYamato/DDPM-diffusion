@@ -13,6 +13,7 @@ This implementation includes:
 - **GIF visualization** of the complete denoising process
 
 
+
 ## 🔥 Generated Results
 
 The model learns to transform pure noise into recognizable MNIST digits. Below are GIFs showing the complete diffusion process for each digit class:
