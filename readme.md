@@ -12,7 +12,6 @@ This implementation includes:
 - **Conditional generation** - generate specific digits (0-9)
 - **GIF visualization** of the complete denoising process
 
-
 ## 🔥 Generated Results
 
 The model learns to transform pure noise into recognizable MNIST digits. Below are GIFs showing the complete diffusion process for each digit class:
